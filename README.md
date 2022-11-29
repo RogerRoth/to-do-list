@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-![](https://img.shields.io/github/license/RogerRoth/to-do-list)
+  <img src="https://img.shields.io/github/license/rogerroth/to-do-list"/>
 </p>
 
 ## ▶️ Projeto
