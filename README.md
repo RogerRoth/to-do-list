@@ -64,10 +64,10 @@ npm install --global expo-cli
 expo --version
 ```
 
-### 🐙 Clonando o projet
+### 🐙 Clonando o projeto
 Para ter acesso aos arquivos do projeto você pode clonar usando o seguinte comando:
 ```bash
-git clone https://github.com/RogerRoth/nlw-eSports.git
+git clone https://github.com/RogerRoth/to-do-list.git
 ```
 
 ### ▶️ Rodando o Projeto
